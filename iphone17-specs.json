@@ -1,0 +1,86 @@
+{
+  "model": "iPhone 17",
+  "announcement_date": "2025-09-09",
+  "preorder_date": "2025-09-12",
+  "release_date": "2025-09-19",
+  "pricing_usd": {
+    "iphone_17": 799,
+    "iphone_air": 999,
+    "iphone_17_pro": 1099,
+    "iphone_17_pro_max": 1199
+  },
+  "storage_gb": [
+    256,
+    512
+  ],
+  "colors": [
+    "Black",
+    "Lavender",
+    "Mist Blue",
+    "Sage",
+    "White"
+  ],
+  "display": {
+    "size_inches": 6.3,
+    "panel": "Super Retina XDR OLED (LTPO)",
+    "promotion_hz": 120,
+    "always_on": true,
+    "peak_brightness_nits_outdoor": 3000,
+    "glass": "Ceramic Shield 2"
+  },
+  "cameras": {
+    "rear": [
+      {
+        "mp": 48,
+        "type": "Fusion Main"
+      },
+      {
+        "mp": 48,
+        "type": "Fusion Ultra Wide"
+      }
+    ],
+    "front": {
+      "mp": 18,
+      "feature": "Center Stage (square sensor)"
+    },
+    "video": [
+      "4K Dolby Vision",
+      "Dual Capture"
+    ]
+  },
+  "chipset": {
+    "soc": "A19",
+    "cpu_cores": 6,
+    "gpu_cores": 5,
+    "neural_engine_cores": 16
+  },
+  "connectivity": {
+    "n1_networking_chip": true,
+    "wifi": "Wi\u2011Fi 7",
+    "bluetooth": "next\u2011gen (regional/variant dependent)",
+    "magsafe": true,
+    "qi2": true
+  },
+  "battery": {
+    "video_playback_hours": 30,
+    "streaming_hours": 27,
+    "fast_charge_50_percent_minutes": 20,
+    "fast_charge_wired_watts": 40,
+    "wireless_watts": 25
+  },
+  "software": {
+    "ios": "26",
+    "apple_intelligence": true
+  },
+  "citations": [
+    "Apple Newsroom (2025-09-09)",
+    "USA Today (2025-09-09)",
+    "Macworld (2025-09-18)",
+    "Tom's Guide (2025-09-09)",
+    "Apple Store Buy Page",
+    "MacRumors Features (2025-10-01)",
+    "Verizon Product Page",
+    "MacRumors Roundup",
+    "Gearbrain Overview"
+  ]
+}
